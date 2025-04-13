@@ -54,7 +54,7 @@ int main()
     do
     {
         cout<<"\n WELCOME TO LOAN MANAGEMENT SYSTEM :\nChoices:"; 
-        cout<<"\n1. Add New Loan Details\n2. All Loans Details  Summary\n0. Exit System\nEnter choice: ";
+        cout<<"\n1. Add New Loan Details\n2. All Loans Details  Summary\n3. Exit System\nEnter choice: ";
         cin>>choice;
 
         if(choice==1){
