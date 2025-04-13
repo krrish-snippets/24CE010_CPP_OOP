@@ -138,7 +138,7 @@ int main()
         }
         break;
         case 4:
-        cout<<"Thankyou visit again !\n;
+        cout<<"Thankyou visit again !\n";
         break;
         default :
         cout<<"invalid choice provided ";
