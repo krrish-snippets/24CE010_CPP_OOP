@@ -79,9 +79,9 @@ int main() {
     double amount;
 
     cout<<"\nMONEY TRANSFER\n";
-    cout<<"Enter Sender Account Number (1 to "<<count<<"): ";
+    cout<<"Enter Sender Account index (1 to "<<count<<"): ";
     cin>>fromIndex;
-    cout<<"Enter Receiver Account Number (1 to "<<count<<"): ";
+    cout<<"Enter Receiver Account index (1 to "<<count<<"): ";
     cin>>toIndex;
     cout<<"Enter Amount to Transfer: ";
     cin>>amount;
