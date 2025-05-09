@@ -28,6 +28,6 @@ public:
 int main() {
     Base* ptr = new Derived();
     delete ptr;
-    cout << "Anshkumar Darji - 24CE022" << endl;
+    cout << "Krrish Bhardwaj - 24CE010" << endl;
     return 0;
 }
